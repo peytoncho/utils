@@ -19,6 +19,7 @@ Plugins:
 ####[syntastic](https://github.com/vim-syntastic/syntastic)
 ####[nerdtree](https://github.com/scrooloose/nerdtree)
    CTRL+n
+open in window hit "s", open in tab hit "t"
 
 ####[ctrlp](https://github.com/kien/ctrlp.vim)
    CTRL+p
