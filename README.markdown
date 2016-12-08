@@ -1,8 +1,9 @@
 My Vim .vimrc IDE Setup
 =======================
-cp .vimrc to /home/user
-start vim
-run ":PlugInInstall" to install all plugins
+* cp .vimrc to /home/user
+* git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+* start vim
+* run ":PlugInInstall" to install all plugins
 
 
 Instruction Source
